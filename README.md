@@ -1,6 +1,6 @@
 # OLXstatistics
 
-  Project made to follow price trends on polish real estate market. Core of the project is parser which runs daily and uploads data to local database. Next, part of the data is being uploaded to cloud database on Azure server, which Django webapplication creates its models from. 
+  Project made to easily follow price trends on polish real estate market. Core of the project is parser which runs daily and uploads data to local database. Next, part of the data is being uploaded to cloud database on Azure server, which Django webapplication creates its models from. 
   
   <p align="center">
   <img src="https://user-images.githubusercontent.com/113203886/196746636-92388b46-4142-4457-9c50-76300260f81a.jpg">
