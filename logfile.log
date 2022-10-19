@@ -1,0 +1,670 @@
+2022-10-18 19:51:37,260 :: INFO :: __main__ :: getting data for city: 19023, district: None
+2022-10-18 19:51:37,688 :: INFO :: __main__ :: got 35 ads in 0.4279446601867676 sec
+2022-10-18 19:51:38,034 :: INFO :: __main__ :: Collected details for 35 ads in city: 19023
+2022-10-18 19:51:38,034 :: INFO :: __main__ :: Collected 35 so far in total.
+2022-10-18 19:51:38,034 :: INFO :: __main__ :: getting data for city: 19403, district: None
+2022-10-18 19:51:38,299 :: INFO :: __main__ :: got 58 ads in 0.2652707099914551 sec
+2022-10-18 19:51:38,834 :: INFO :: __main__ :: got 58 ads in 0.3121211528778076 sec
+2022-10-18 19:51:39,336 :: INFO :: __main__ :: got 58 ads in 0.29874372482299805 sec
+2022-10-18 19:51:39,802 :: INFO :: __main__ :: got 30 ads in 0.26401424407958984 sec
+2022-10-18 19:51:40,106 :: INFO :: __main__ :: Collected details for 204 ads in city: 19403
+2022-10-18 19:51:40,106 :: INFO :: __main__ :: Collected 239 so far in total.
+2022-10-18 19:51:40,106 :: INFO :: __main__ :: getting data for city: 19427, district: None
+2022-10-18 19:51:40,469 :: INFO :: __main__ :: got 52 ads in 0.3629491329193115 sec
+2022-10-18 19:51:40,938 :: INFO :: __main__ :: got 9 ads in 0.2158663272857666 sec
+2022-10-18 19:51:41,168 :: INFO :: __main__ :: Collected details for 61 ads in city: 19427
+2022-10-18 19:51:41,168 :: INFO :: __main__ :: Collected 300 so far in total.
+2022-10-18 19:51:41,168 :: INFO :: __main__ :: getting data for city: 19701, district: 385
+2022-10-18 19:51:41,430 :: INFO :: __main__ :: got 57 ads in 0.2618381977081299 sec
+2022-10-18 19:51:42,010 :: INFO :: __main__ :: got 58 ads in 0.37202000617980957 sec
+2022-10-18 19:51:42,554 :: INFO :: __main__ :: got 59 ads in 0.307173490524292 sec
+2022-10-18 19:51:43,044 :: INFO :: __main__ :: got 58 ads in 0.2583630084991455 sec
+2022-10-18 19:51:43,564 :: INFO :: __main__ :: got 58 ads in 0.2989034652709961 sec
+2022-10-18 19:51:44,006 :: INFO :: __main__ :: Collected details for 290 ads in city: 19701, district: 385
+2022-10-18 19:51:44,007 :: INFO :: __main__ :: Collected 590 so far in total.
+2022-10-18 19:51:44,007 :: INFO :: __main__ :: getting data for city: 19701, district: 387
+2022-10-18 19:51:44,291 :: INFO :: __main__ :: got 53 ads in 0.2841167449951172 sec
+2022-10-18 19:51:44,907 :: INFO :: __main__ :: got 54 ads in 0.3772585391998291 sec
+2022-10-18 19:51:45,434 :: INFO :: __main__ :: got 54 ads in 0.27794981002807617 sec
+2022-10-18 19:51:46,322 :: INFO :: __main__ :: got 54 ads in 0.5179421901702881 sec
+2022-10-18 19:51:46,752 :: INFO :: __main__ :: got 18 ads in 0.21265649795532227 sec
+2022-10-18 19:51:46,991 :: INFO :: __main__ :: Collected details for 233 ads in city: 19701, district: 387
+2022-10-18 19:51:46,991 :: INFO :: __main__ :: Collected 823 so far in total.
+2022-10-18 19:51:46,991 :: INFO :: __main__ :: getting data for city: 19701, district: 389
+2022-10-18 19:51:47,245 :: INFO :: __main__ :: got 53 ads in 0.25461769104003906 sec
+2022-10-18 19:51:47,786 :: INFO :: __main__ :: got 53 ads in 0.29569482803344727 sec
+2022-10-18 19:51:48,231 :: INFO :: __main__ :: got 53 ads in 0.2383425235748291 sec
+2022-10-18 19:51:48,717 :: INFO :: __main__ :: got 53 ads in 0.2744278907775879 sec
+2022-10-18 19:51:49,187 :: INFO :: __main__ :: got 53 ads in 0.26605939865112305 sec
+2022-10-18 19:51:49,600 :: INFO :: __main__ :: got 26 ads in 0.19922375679016113 sec
+2022-10-18 19:51:49,862 :: INFO :: __main__ :: Collected details for 291 ads in city: 19701, district: 389
+2022-10-18 19:51:49,863 :: INFO :: __main__ :: Collected 1114 so far in total.
+2022-10-18 19:51:49,863 :: INFO :: __main__ :: getting data for city: 19701, district: 391
+2022-10-18 19:51:50,160 :: INFO :: __main__ :: got 61 ads in 0.2978651523590088 sec
+2022-10-18 19:51:50,683 :: INFO :: __main__ :: got 60 ads in 0.270796537399292 sec
+2022-10-18 19:51:51,252 :: INFO :: __main__ :: got 61 ads in 0.28682899475097656 sec
+2022-10-18 19:51:51,754 :: INFO :: __main__ :: got 62 ads in 0.28994131088256836 sec
+2022-10-18 19:51:52,290 :: INFO :: __main__ :: got 62 ads in 0.3281567096710205 sec
+2022-10-18 19:51:52,801 :: INFO :: __main__ :: got 62 ads in 0.2898578643798828 sec
+2022-10-18 19:51:53,292 :: INFO :: __main__ :: got 62 ads in 0.27668118476867676 sec
+2022-10-18 19:51:54,022 :: INFO :: __main__ :: got 62 ads in 0.5020248889923096 sec
+2022-10-18 19:51:54,878 :: INFO :: __main__ :: got 62 ads in 0.5066483020782471 sec
+2022-10-18 19:51:57,547 :: INFO :: __main__ :: got 62 ads in 0.3898961544036865 sec
+2022-10-18 19:51:58,178 :: INFO :: __main__ :: Collected details for 616 ads in city: 19701, district: 391
+2022-10-18 19:51:58,178 :: INFO :: __main__ :: Collected 1730 so far in total.
+2022-10-18 19:51:58,179 :: INFO :: __main__ :: getting data for city: 19701, district: 393
+2022-10-18 19:51:58,449 :: INFO :: __main__ :: got 65 ads in 0.2704308032989502 sec
+2022-10-18 19:51:58,992 :: INFO :: __main__ :: got 63 ads in 0.2663748264312744 sec
+2022-10-18 19:51:59,518 :: INFO :: __main__ :: got 65 ads in 0.2919909954071045 sec
+2022-10-18 19:52:00,059 :: INFO :: __main__ :: got 65 ads in 0.3158111572265625 sec
+2022-10-18 19:52:00,579 :: INFO :: __main__ :: got 65 ads in 0.31829380989074707 sec
+2022-10-18 19:52:01,064 :: INFO :: __main__ :: got 65 ads in 0.28918027877807617 sec
+2022-10-18 19:52:01,572 :: INFO :: __main__ :: got 65 ads in 0.2926154136657715 sec
+2022-10-18 19:52:02,045 :: INFO :: __main__ :: got 59 ads in 0.2985563278198242 sec
+2022-10-18 19:52:02,420 :: INFO :: __main__ :: Collected details for 512 ads in city: 19701, district: 393
+2022-10-18 19:52:02,420 :: INFO :: __main__ :: Collected 2242 so far in total.
+2022-10-18 19:52:02,420 :: INFO :: __main__ :: getting data for city: 20257, district: None
+2022-10-18 19:52:02,651 :: INFO :: __main__ :: got 22 ads in 0.23008942604064941 sec
+2022-10-18 19:52:02,933 :: INFO :: __main__ :: Collected details for 22 ads in city: 20257
+2022-10-18 19:52:02,933 :: INFO :: __main__ :: Collected 2264 so far in total.
+2022-10-18 19:52:02,933 :: INFO :: __main__ :: getting data for city: 20327, district: None
+2022-10-18 19:52:03,210 :: INFO :: __main__ :: got 61 ads in 0.2758820056915283 sec
+2022-10-18 19:52:03,820 :: INFO :: __main__ :: got 65 ads in 0.370882511138916 sec
+2022-10-18 19:52:04,282 :: INFO :: __main__ :: got 64 ads in 0.2550380229949951 sec
+2022-10-18 19:52:04,760 :: INFO :: __main__ :: got 49 ads in 0.27267909049987793 sec
+2022-10-18 19:52:05,168 :: INFO :: __main__ :: Collected details for 239 ads in city: 20327
+2022-10-18 19:52:05,168 :: INFO :: __main__ :: Collected 2503 so far in total.
+2022-10-18 19:52:05,168 :: INFO :: __main__ :: getting data for city: 20493, district: None
+2022-10-18 19:52:05,379 :: INFO :: __main__ :: got 26 ads in 0.20978546142578125 sec
+2022-10-18 19:52:05,666 :: INFO :: __main__ :: Collected details for 26 ads in city: 20493
+2022-10-18 19:52:05,666 :: INFO :: __main__ :: Collected 2529 so far in total.
+2022-10-18 19:52:05,667 :: INFO :: __main__ :: getting data for city: 20507, district: None
+2022-10-18 19:52:05,912 :: INFO :: __main__ :: got 51 ads in 0.24439263343811035 sec
+2022-10-18 19:52:06,418 :: INFO :: __main__ :: got 36 ads in 0.2748267650604248 sec
+2022-10-18 19:52:06,713 :: INFO :: __main__ :: Collected details for 87 ads in city: 20507
+2022-10-18 19:52:06,714 :: INFO :: __main__ :: Collected 2616 so far in total.
+2022-10-18 19:52:06,714 :: INFO :: __main__ :: getting data for city: 20641, district: 395
+2022-10-18 19:52:06,981 :: INFO :: __main__ :: got 1 ads in 0.2665853500366211 sec
+2022-10-18 19:52:07,196 :: INFO :: __main__ :: Collected details for 1 ads in city: 20641, district: 395
+2022-10-18 19:52:07,196 :: INFO :: __main__ :: Collected 2617 so far in total.
+2022-10-18 19:52:07,196 :: INFO :: __main__ :: getting data for city: 20641, district: 397
+2022-10-18 19:52:07,390 :: INFO :: __main__ :: got 1 ads in 0.19394755363464355 sec
+2022-10-18 19:52:07,585 :: INFO :: __main__ :: Collected details for 1 ads in city: 20641, district: 397
+2022-10-18 19:52:07,585 :: INFO :: __main__ :: Collected 2618 so far in total.
+2022-10-18 19:52:07,586 :: INFO :: __main__ :: getting data for city: 20641, district: 653
+2022-10-18 19:52:07,744 :: INFO :: __main__ :: Collected details for 0 ads in city: 20641, district: 653
+2022-10-18 19:52:07,744 :: INFO :: __main__ :: Collected 2618 so far in total.
+2022-10-18 19:52:07,744 :: INFO :: __main__ :: getting data for city: 20641, district: 657
+2022-10-18 19:52:07,990 :: INFO :: __main__ :: got 1 ads in 0.2444448471069336 sec
+2022-10-18 19:52:08,208 :: INFO :: __main__ :: Collected details for 1 ads in city: 20641, district: 657
+2022-10-18 19:52:08,208 :: INFO :: __main__ :: Collected 2619 so far in total.
+2022-10-18 19:52:08,209 :: INFO :: __main__ :: getting data for city: 20641, district: 535
+2022-10-18 19:52:08,424 :: INFO :: __main__ :: got 1 ads in 0.21473932266235352 sec
+2022-10-18 19:52:08,596 :: INFO :: __main__ :: Collected details for 1 ads in city: 20641, district: 535
+2022-10-18 19:52:08,597 :: INFO :: __main__ :: Collected 2620 so far in total.
+2022-10-18 19:52:08,597 :: INFO :: __main__ :: getting data for city: 20641, district: 537
+2022-10-18 19:52:08,794 :: INFO :: __main__ :: got 14 ads in 0.1972966194152832 sec
+2022-10-18 19:52:09,134 :: INFO :: __main__ :: Collected details for 14 ads in city: 20641, district: 537
+2022-10-18 19:52:09,134 :: INFO :: __main__ :: Collected 2634 so far in total.
+2022-10-18 19:52:09,134 :: INFO :: __main__ :: getting data for city: 20641, district: 541
+2022-10-18 19:52:09,317 :: INFO :: __main__ :: Collected details for 0 ads in city: 20641, district: 541
+2022-10-18 19:52:09,318 :: INFO :: __main__ :: Collected 2634 so far in total.
+2022-10-18 19:52:09,318 :: INFO :: __main__ :: getting data for city: 20641, district: 483
+2022-10-18 19:52:09,524 :: INFO :: __main__ :: got 3 ads in 0.20626592636108398 sec
+2022-10-18 19:52:09,704 :: INFO :: __main__ :: Collected details for 3 ads in city: 20641, district: 483
+2022-10-18 19:52:09,705 :: INFO :: __main__ :: Collected 2637 so far in total.
+2022-10-18 19:52:09,705 :: INFO :: __main__ :: getting data for city: 20787, district: None
+2022-10-18 19:52:09,971 :: INFO :: __main__ :: got 56 ads in 0.2655928134918213 sec
+2022-10-18 19:52:10,452 :: INFO :: __main__ :: got 56 ads in 0.26874709129333496 sec
+2022-10-18 19:52:10,939 :: INFO :: __main__ :: got 56 ads in 0.27468132972717285 sec
+2022-10-18 19:52:11,629 :: INFO :: __main__ :: got 56 ads in 0.45020198822021484 sec
+2022-10-18 19:52:12,099 :: INFO :: __main__ :: got 55 ads in 0.25511717796325684 sec
+2022-10-18 19:52:12,622 :: INFO :: __main__ :: got 35 ads in 0.3242630958557129 sec
+2022-10-18 19:52:12,904 :: INFO :: __main__ :: Collected details for 314 ads in city: 20787
+2022-10-18 19:52:12,904 :: INFO :: __main__ :: Collected 2951 so far in total.
+2022-10-18 19:52:12,905 :: INFO :: __main__ :: getting data for city: 21033, district: None
+2022-10-18 19:52:13,142 :: INFO :: __main__ :: got 27 ads in 0.23713016510009766 sec
+2022-10-18 19:52:13,422 :: INFO :: __main__ :: Collected details for 27 ads in city: 21033
+2022-10-18 19:52:13,422 :: INFO :: __main__ :: Collected 2978 so far in total.
+2022-10-18 19:52:13,422 :: INFO :: __main__ :: getting data for city: 21141, district: None
+2022-10-18 19:52:13,670 :: INFO :: __main__ :: got 50 ads in 0.24864768981933594 sec
+2022-10-18 19:52:14,115 :: INFO :: __main__ :: got 15 ads in 0.2456967830657959 sec
+2022-10-18 19:52:14,526 :: INFO :: __main__ :: Collected details for 65 ads in city: 21141
+2022-10-18 19:52:14,526 :: INFO :: __main__ :: Collected 3043 so far in total.
+2022-10-18 19:52:14,526 :: INFO :: __main__ :: getting data for city: 21205, district: None
+2022-10-18 19:52:14,823 :: INFO :: __main__ :: got 32 ads in 0.2962915897369385 sec
+2022-10-18 19:52:15,139 :: INFO :: __main__ :: Collected details for 32 ads in city: 21205
+2022-10-18 19:52:15,140 :: INFO :: __main__ :: Collected 3075 so far in total.
+2022-10-18 19:52:15,140 :: INFO :: __main__ :: getting data for city: 21423, district: None
+2022-10-18 19:52:15,406 :: INFO :: __main__ :: got 18 ads in 0.2654592990875244 sec
+2022-10-18 19:52:15,648 :: INFO :: __main__ :: Collected details for 18 ads in city: 21423
+2022-10-18 19:52:15,648 :: INFO :: __main__ :: Collected 3093 so far in total.
+2022-10-18 19:52:15,649 :: INFO :: __main__ :: getting data for city: 21803, district: None
+2022-10-18 19:52:15,884 :: INFO :: __main__ :: got 51 ads in 0.23557019233703613 sec
+2022-10-18 19:52:16,287 :: INFO :: __main__ :: Collected details for 51 ads in city: 21803
+2022-10-18 19:52:16,287 :: INFO :: __main__ :: Collected 3144 so far in total.
+2022-10-18 19:52:16,287 :: INFO :: __main__ :: getting data for city: 22501, district: None
+2022-10-18 19:52:16,511 :: INFO :: __main__ :: got 20 ads in 0.22318792343139648 sec
+2022-10-18 19:52:16,797 :: INFO :: __main__ :: Collected details for 20 ads in city: 22501
+2022-10-18 19:52:16,797 :: INFO :: __main__ :: Collected 3164 so far in total.
+2022-10-18 19:52:16,797 :: INFO :: __main__ :: getting data for city: 22611, district: None
+2022-10-18 19:52:17,171 :: INFO :: __main__ :: got 60 ads in 0.3730499744415283 sec
+2022-10-18 19:52:17,747 :: INFO :: __main__ :: got 59 ads in 0.3394889831542969 sec
+2022-10-18 19:52:18,372 :: INFO :: __main__ :: got 60 ads in 0.4039740562438965 sec
+2022-10-18 19:52:19,071 :: INFO :: __main__ :: got 37 ads in 0.49099063873291016 sec
+2022-10-18 19:52:19,584 :: INFO :: __main__ :: Collected details for 216 ads in city: 22611
+2022-10-18 19:52:19,585 :: INFO :: __main__ :: Collected 3380 so far in total.
+2022-10-18 19:52:19,585 :: INFO :: __main__ :: getting data for city: 23239, district: None
+2022-10-18 19:52:19,842 :: INFO :: __main__ :: got 38 ads in 0.25674939155578613 sec
+2022-10-18 19:52:20,138 :: INFO :: __main__ :: Collected details for 38 ads in city: 23239
+2022-10-18 19:52:20,139 :: INFO :: __main__ :: Collected 3418 so far in total.
+2022-10-18 19:52:20,139 :: INFO :: __main__ :: getting data for city: 23883, district: None
+2022-10-18 19:52:20,569 :: INFO :: __main__ :: got 9 ads in 0.42850661277770996 sec
+2022-10-18 19:52:20,996 :: INFO :: __main__ :: Collected details for 9 ads in city: 23883
+2022-10-18 19:52:20,997 :: INFO :: __main__ :: Collected 3427 so far in total.
+2022-10-18 19:52:20,997 :: INFO :: __main__ :: getting data for city: 24485, district: None
+2022-10-18 19:52:21,416 :: INFO :: __main__ :: got 21 ads in 0.41781020164489746 sec
+2022-10-18 19:52:21,682 :: INFO :: __main__ :: Collected details for 21 ads in city: 24485
+2022-10-18 19:52:21,682 :: INFO :: __main__ :: Collected 3448 so far in total.
+2022-10-18 19:52:21,683 :: INFO :: __main__ :: getting data for city: 24545, district: None
+2022-10-18 19:52:22,002 :: INFO :: __main__ :: got 41 ads in 0.318570613861084 sec
+2022-10-18 19:52:22,420 :: INFO :: __main__ :: Collected details for 41 ads in city: 24545
+2022-10-18 19:52:22,420 :: INFO :: __main__ :: Collected 3489 so far in total.
+2022-10-18 19:52:22,422 :: INFO :: __main__ :: getting data for city: 25555, district: None
+2022-10-18 19:52:22,645 :: INFO :: __main__ :: got 59 ads in 0.22324419021606445 sec
+2022-10-18 19:52:23,090 :: INFO :: __main__ :: got 19 ads in 0.21634602546691895 sec
+2022-10-18 19:52:23,333 :: INFO :: __main__ :: Collected details for 78 ads in city: 25555
+2022-10-18 19:52:23,333 :: INFO :: __main__ :: Collected 3567 so far in total.
+2022-10-18 19:52:23,334 :: INFO :: __main__ :: getting data for city: 25767, district: None
+2022-10-18 19:52:23,588 :: INFO :: __main__ :: got 51 ads in 0.2539198398590088 sec
+2022-10-18 19:52:23,990 :: INFO :: __main__ :: got 3 ads in 0.18280696868896484 sec
+2022-10-18 19:52:24,194 :: INFO :: __main__ :: Collected details for 54 ads in city: 25767
+2022-10-18 19:52:24,195 :: INFO :: __main__ :: Collected 3621 so far in total.
+2022-10-18 19:52:24,195 :: INFO :: __main__ :: getting data for city: 26493, district: None
+2022-10-18 19:52:24,410 :: INFO :: __main__ :: got 21 ads in 0.214766263961792 sec
+2022-10-18 19:52:24,662 :: INFO :: __main__ :: Collected details for 21 ads in city: 26493
+2022-10-18 19:52:24,662 :: INFO :: __main__ :: Collected 3642 so far in total.
+2022-10-18 19:52:24,662 :: INFO :: __main__ :: getting data for city: 26541, district: None
+2022-10-18 19:52:24,894 :: INFO :: __main__ :: got 50 ads in 0.2311239242553711 sec
+2022-10-18 19:52:25,324 :: INFO :: __main__ :: got 17 ads in 0.2215116024017334 sec
+2022-10-18 19:52:25,582 :: INFO :: __main__ :: Collected details for 67 ads in city: 26541
+2022-10-18 19:52:25,582 :: INFO :: __main__ :: Collected 3709 so far in total.
+2022-10-18 19:52:25,582 :: INFO :: __main__ :: getting data for city: 27191, district: None
+2022-10-18 19:52:25,918 :: INFO :: __main__ :: got 50 ads in 0.3362998962402344 sec
+2022-10-18 19:52:26,396 :: INFO :: __main__ :: got 40 ads in 0.27091217041015625 sec
+2022-10-18 19:52:26,710 :: INFO :: __main__ :: Collected details for 90 ads in city: 27191
+2022-10-18 19:52:26,710 :: INFO :: __main__ :: Collected 3799 so far in total.
+2022-10-18 19:52:26,711 :: INFO :: __main__ :: getting data for city: 27385, district: None
+2022-10-18 19:52:26,933 :: INFO :: __main__ :: got 22 ads in 0.22162723541259766 sec
+2022-10-18 19:52:27,229 :: INFO :: __main__ :: Collected details for 22 ads in city: 27385
+2022-10-18 19:52:27,229 :: INFO :: __main__ :: Collected 3821 so far in total.
+2022-10-18 19:52:27,229 :: INFO :: __main__ :: getting data for city: 27567, district: None
+2022-10-18 19:52:27,431 :: INFO :: __main__ :: got 15 ads in 0.2009871006011963 sec
+2022-10-18 19:52:27,683 :: INFO :: __main__ :: Collected details for 15 ads in city: 27567
+2022-10-18 19:52:27,683 :: INFO :: __main__ :: Collected 3836 so far in total.
+2022-10-18 19:52:27,684 :: INFO :: __main__ :: getting data for city: 27633, district: None
+2022-10-18 19:52:27,933 :: INFO :: __main__ :: got 50 ads in 0.24945497512817383 sec
+2022-10-18 19:52:28,340 :: INFO :: __main__ :: got 11 ads in 0.1871023178100586 sec
+2022-10-18 19:52:28,560 :: INFO :: __main__ :: Collected details for 61 ads in city: 27633
+2022-10-18 19:52:28,560 :: INFO :: __main__ :: Collected 3897 so far in total.
+2022-10-18 19:52:28,560 :: INFO :: __main__ :: getting data for city: 27945, district: None
+2022-10-18 19:52:28,825 :: INFO :: __main__ :: got 51 ads in 0.2634415626525879 sec
+2022-10-18 19:52:29,226 :: INFO :: __main__ :: got 4 ads in 0.15660858154296875 sec
+2022-10-18 19:52:29,406 :: INFO :: __main__ :: Collected details for 55 ads in city: 27945
+2022-10-18 19:52:29,406 :: INFO :: __main__ :: Collected 3952 so far in total.
+2022-10-18 19:52:29,406 :: INFO :: __main__ :: getting data for city: 29073, district: None
+2022-10-18 19:52:29,638 :: INFO :: __main__ :: got 25 ads in 0.231842041015625 sec
+2022-10-18 19:52:29,932 :: INFO :: __main__ :: Collected details for 25 ads in city: 29073
+2022-10-18 19:52:29,932 :: INFO :: __main__ :: Collected 3977 so far in total.
+2022-10-18 19:52:29,933 :: INFO :: __main__ :: getting data for city: 29337, district: None
+2022-10-18 19:52:30,133 :: INFO :: __main__ :: got 20 ads in 0.20034003257751465 sec
+2022-10-18 19:52:30,384 :: INFO :: __main__ :: Collected details for 20 ads in city: 29337
+2022-10-18 19:52:30,384 :: INFO :: __main__ :: Collected 3997 so far in total.
+2022-10-18 19:52:30,384 :: INFO :: __main__ :: getting data for city: 29397, district: None
+2022-10-18 19:52:30,624 :: INFO :: __main__ :: got 52 ads in 0.23802590370178223 sec
+2022-10-18 19:52:31,037 :: INFO :: __main__ :: got 12 ads in 0.1930692195892334 sec
+2022-10-18 19:52:31,339 :: INFO :: __main__ :: Collected details for 64 ads in city: 29397
+2022-10-18 19:52:31,339 :: INFO :: __main__ :: Collected 4061 so far in total.
+2022-10-18 19:52:31,339 :: INFO :: __main__ :: getting data for city: 29583, district: None
+2022-10-18 19:52:31,561 :: INFO :: __main__ :: got 21 ads in 0.2221670150756836 sec
+2022-10-18 19:52:31,834 :: INFO :: __main__ :: Collected details for 21 ads in city: 29583
+2022-10-18 19:52:31,834 :: INFO :: __main__ :: Collected 4082 so far in total.
+2022-10-18 19:52:31,835 :: INFO :: __main__ :: getting data for city: 29685, district: None
+2022-10-18 19:52:32,028 :: INFO :: __main__ :: got 13 ads in 0.19303250312805176 sec
+2022-10-18 19:52:32,273 :: INFO :: __main__ :: Collected details for 13 ads in city: 29685
+2022-10-18 19:52:32,273 :: INFO :: __main__ :: Collected 4095 so far in total.
+2022-10-18 19:52:32,273 :: INFO :: __main__ :: getting data for city: 29929, district: None
+2022-10-18 19:52:32,632 :: INFO :: __main__ :: got 41 ads in 0.3584895133972168 sec
+2022-10-18 19:52:33,168 :: INFO :: __main__ :: Collected details for 41 ads in city: 29929
+2022-10-18 19:52:33,168 :: INFO :: __main__ :: Collected 4136 so far in total.
+2022-10-18 19:52:33,169 :: INFO :: __main__ :: getting data for city: 29941, district: None
+2022-10-18 19:52:33,369 :: INFO :: __main__ :: got 18 ads in 0.1998751163482666 sec
+2022-10-18 19:52:33,611 :: INFO :: __main__ :: Collected details for 18 ads in city: 29941
+2022-10-18 19:52:33,611 :: INFO :: __main__ :: Collected 4154 so far in total.
+2022-10-18 19:52:33,611 :: INFO :: __main__ :: getting data for city: 30429, district: None
+2022-10-18 19:52:33,848 :: INFO :: __main__ :: got 41 ads in 0.23654985427856445 sec
+2022-10-18 19:52:34,309 :: INFO :: __main__ :: Collected details for 41 ads in city: 30429
+2022-10-18 19:52:34,310 :: INFO :: __main__ :: Collected 4195 so far in total.
+2022-10-18 19:52:34,310 :: INFO :: __main__ :: getting data for city: 30839, district: None
+2022-10-18 19:52:34,611 :: INFO :: __main__ :: got 50 ads in 0.3015308380126953 sec
+2022-10-18 19:52:35,064 :: INFO :: __main__ :: got 36 ads in 0.2510361671447754 sec
+2022-10-18 19:52:35,434 :: INFO :: __main__ :: Collected details for 86 ads in city: 30839
+2022-10-18 19:52:35,434 :: INFO :: __main__ :: Collected 4281 so far in total.
+2022-10-18 19:52:35,434 :: INFO :: __main__ :: getting data for city: 31385, district: None
+2022-10-18 19:52:35,694 :: INFO :: __main__ :: got 28 ads in 0.25883984565734863 sec
+2022-10-18 19:52:37,122 :: INFO :: __main__ :: Collected details for 28 ads in city: 31385
+2022-10-18 19:52:37,122 :: INFO :: __main__ :: Collected 4309 so far in total.
+2022-10-18 19:52:37,122 :: INFO :: __main__ :: getting data for city: 31463, district: None
+2022-10-18 19:52:37,363 :: INFO :: __main__ :: got 33 ads in 0.24146437644958496 sec
+2022-10-18 19:52:37,740 :: INFO :: __main__ :: Collected details for 33 ads in city: 31463
+2022-10-18 19:52:37,741 :: INFO :: __main__ :: Collected 4342 so far in total.
+2022-10-18 19:52:37,741 :: INFO :: __main__ :: getting data for city: 32213, district: None
+2022-10-18 19:52:37,996 :: INFO :: __main__ :: got 53 ads in 0.25563812255859375 sec
+2022-10-18 19:52:38,580 :: INFO :: __main__ :: got 54 ads in 0.26084160804748535 sec
+2022-10-18 19:52:39,023 :: INFO :: __main__ :: got 23 ads in 0.23359179496765137 sec
+2022-10-18 19:52:39,260 :: INFO :: __main__ :: Collected details for 130 ads in city: 32213
+2022-10-18 19:52:39,260 :: INFO :: __main__ :: Collected 4472 so far in total.
+2022-10-18 19:52:39,260 :: INFO :: __main__ :: getting data for city: 32399, district: None
+2022-10-18 19:52:39,497 :: INFO :: __main__ :: got 52 ads in 0.23729419708251953 sec
+2022-10-18 19:52:39,907 :: INFO :: __main__ :: Collected details for 52 ads in city: 32399
+2022-10-18 19:52:39,907 :: INFO :: __main__ :: Collected 4524 so far in total.
+2022-10-18 19:52:39,907 :: INFO :: __main__ :: getting data for city: 32763, district: None
+2022-10-18 19:52:40,178 :: INFO :: __main__ :: got 51 ads in 0.26988887786865234 sec
+2022-10-18 19:52:40,612 :: INFO :: __main__ :: got 4 ads in 0.19806575775146484 sec
+2022-10-18 19:52:40,805 :: INFO :: __main__ :: Collected details for 55 ads in city: 32763
+2022-10-18 19:52:40,806 :: INFO :: __main__ :: Collected 4579 so far in total.
+2022-10-18 19:52:40,806 :: INFO :: __main__ :: getting data for city: 32863, district: None
+2022-10-18 19:52:41,088 :: INFO :: __main__ :: got 20 ads in 0.2818448543548584 sec
+2022-10-18 19:52:41,415 :: INFO :: __main__ :: Collected details for 20 ads in city: 32863
+2022-10-18 19:52:41,416 :: INFO :: __main__ :: Collected 4599 so far in total.
+2022-10-18 19:52:41,416 :: INFO :: __main__ :: getting data for city: 33099, district: None
+2022-10-18 19:52:41,639 :: INFO :: __main__ :: got 50 ads in 0.22297239303588867 sec
+2022-10-18 19:52:42,083 :: INFO :: __main__ :: got 2 ads in 0.202742338180542 sec
+2022-10-18 19:52:42,256 :: INFO :: __main__ :: Collected details for 52 ads in city: 33099
+2022-10-18 19:52:42,256 :: INFO :: __main__ :: Collected 4651 so far in total.
+2022-10-18 19:52:42,256 :: INFO :: __main__ :: getting data for city: 33369, district: None
+2022-10-18 19:52:42,538 :: INFO :: __main__ :: got 54 ads in 0.2807755470275879 sec
+2022-10-18 19:52:42,937 :: INFO :: __main__ :: got 10 ads in 0.18751788139343262 sec
+2022-10-18 19:52:43,169 :: INFO :: __main__ :: Collected details for 64 ads in city: 33369
+2022-10-18 19:52:43,170 :: INFO :: __main__ :: Collected 4715 so far in total.
+2022-10-18 19:52:43,170 :: INFO :: __main__ :: getting data for city: 33807, district: None
+2022-10-18 19:52:43,389 :: INFO :: __main__ :: got 14 ads in 0.21873784065246582 sec
+2022-10-18 19:52:43,673 :: INFO :: __main__ :: Collected details for 14 ads in city: 33807
+2022-10-18 19:52:43,673 :: INFO :: __main__ :: Collected 4729 so far in total.
+2022-10-18 19:52:43,673 :: INFO :: __main__ :: getting data for city: 34105, district: None
+2022-10-18 19:52:43,913 :: INFO :: __main__ :: got 51 ads in 0.24019193649291992 sec
+2022-10-18 19:52:44,412 :: INFO :: __main__ :: got 20 ads in 0.2962958812713623 sec
+2022-10-18 19:52:44,841 :: INFO :: __main__ :: Collected details for 71 ads in city: 34105
+2022-10-18 19:52:44,841 :: INFO :: __main__ :: Collected 4800 so far in total.
+2022-10-18 19:52:44,842 :: INFO :: __main__ :: getting data for city: 35361, district: None
+2022-10-18 19:52:45,238 :: INFO :: __main__ :: got 46 ads in 0.39554405212402344 sec
+2022-10-18 19:52:45,604 :: INFO :: __main__ :: Collected details for 46 ads in city: 35361
+2022-10-18 19:52:45,605 :: INFO :: __main__ :: Collected 4846 so far in total.
+2022-10-18 19:52:45,605 :: INFO :: __main__ :: getting data for city: 35509, district: None
+2022-10-18 19:52:45,964 :: INFO :: __main__ :: got 19 ads in 0.3596220016479492 sec
+2022-10-18 19:52:46,257 :: INFO :: __main__ :: Collected details for 19 ads in city: 35509
+2022-10-18 19:52:46,258 :: INFO :: __main__ :: Collected 4865 so far in total.
+2022-10-18 19:52:46,258 :: INFO :: __main__ :: getting data for city: 36333, district: None
+2022-10-18 19:52:46,527 :: INFO :: __main__ :: got 28 ads in 0.2692301273345947 sec
+2022-10-18 19:52:46,835 :: INFO :: __main__ :: Collected details for 28 ads in city: 36333
+2022-10-18 19:52:46,836 :: INFO :: __main__ :: Collected 4893 so far in total.
+2022-10-18 19:52:46,836 :: INFO :: __main__ :: getting data for city: 36833, district: None
+2022-10-18 19:52:47,053 :: INFO :: __main__ :: got 30 ads in 0.216813325881958 sec
+2022-10-18 19:52:47,456 :: INFO :: __main__ :: Collected details for 30 ads in city: 36833
+2022-10-18 19:52:47,456 :: INFO :: __main__ :: Collected 4923 so far in total.
+2022-10-18 19:52:47,456 :: INFO :: __main__ :: getting data for city: 36875, district: None
+2022-10-18 19:52:47,639 :: INFO :: __main__ :: got 9 ads in 0.18216300010681152 sec
+2022-10-18 19:52:47,940 :: INFO :: __main__ :: Collected details for 9 ads in city: 36875
+2022-10-18 19:52:47,940 :: INFO :: __main__ :: Collected 4932 so far in total.
+2022-10-18 19:52:47,940 :: INFO :: __main__ :: getting data for city: 37573, district: None
+2022-10-18 19:52:48,200 :: INFO :: __main__ :: got 53 ads in 0.25898265838623047 sec
+2022-10-18 19:52:48,906 :: INFO :: __main__ :: got 54 ads in 0.4924147129058838 sec
+2022-10-18 19:52:49,304 :: INFO :: __main__ :: got 5 ads in 0.17259454727172852 sec
+2022-10-18 19:52:49,552 :: INFO :: __main__ :: Collected details for 112 ads in city: 37573
+2022-10-18 19:52:49,552 :: INFO :: __main__ :: Collected 5044 so far in total.
+2022-10-18 19:52:49,553 :: INFO :: __main__ :: getting data for city: 37951, district: None
+2022-10-18 19:52:49,777 :: INFO :: __main__ :: got 37 ads in 0.2245016098022461 sec
+2022-10-18 19:52:50,173 :: INFO :: __main__ :: Collected details for 37 ads in city: 37951
+2022-10-18 19:52:50,173 :: INFO :: __main__ :: Collected 5081 so far in total.
+2022-10-18 19:52:50,173 :: INFO :: __main__ :: getting data for city: 38153, district: None
+2022-10-18 19:52:50,390 :: INFO :: __main__ :: got 52 ads in 0.21611905097961426 sec
+2022-10-18 19:52:50,903 :: INFO :: __main__ :: got 53 ads in 0.2796752452850342 sec
+2022-10-18 19:52:51,297 :: INFO :: __main__ :: Collected details for 105 ads in city: 38153
+2022-10-18 19:52:51,297 :: INFO :: __main__ :: Collected 5186 so far in total.
+2022-10-18 19:52:51,297 :: INFO :: __main__ :: getting data for city: 38163, district: None
+2022-10-18 19:52:51,488 :: INFO :: __main__ :: got 12 ads in 0.19101238250732422 sec
+2022-10-18 19:52:51,732 :: INFO :: __main__ :: Collected details for 12 ads in city: 38163
+2022-10-18 19:52:51,732 :: INFO :: __main__ :: Collected 5198 so far in total.
+2022-10-18 19:52:51,732 :: INFO :: __main__ :: getting data for city: 38165, district: None
+2022-10-18 19:52:51,955 :: INFO :: __main__ :: got 31 ads in 0.2228693962097168 sec
+2022-10-18 19:52:52,251 :: INFO :: __main__ :: Collected details for 31 ads in city: 38165
+2022-10-18 19:52:52,251 :: INFO :: __main__ :: Collected 5229 so far in total.
+2022-10-18 19:52:52,252 :: INFO :: __main__ :: getting data for city: 38395, district: None
+2022-10-18 19:52:52,593 :: INFO :: __main__ :: got 65 ads in 0.3412508964538574 sec
+2022-10-18 19:52:53,217 :: INFO :: __main__ :: got 64 ads in 0.38616180419921875 sec
+2022-10-18 19:52:53,759 :: INFO :: __main__ :: got 65 ads in 0.32828831672668457 sec
+2022-10-18 19:52:54,371 :: INFO :: __main__ :: got 65 ads in 0.3777291774749756 sec
+2022-10-18 19:52:54,966 :: INFO :: __main__ :: got 65 ads in 0.36704277992248535 sec
+2022-10-18 19:52:55,523 :: INFO :: __main__ :: got 65 ads in 0.276674747467041 sec
+2022-10-18 19:52:56,054 :: INFO :: __main__ :: got 64 ads in 0.29474830627441406 sec
+2022-10-18 19:52:56,485 :: INFO :: __main__ :: got 25 ads in 0.21413421630859375 sec
+2022-10-18 19:52:56,749 :: INFO :: __main__ :: Collected details for 478 ads in city: 38395
+2022-10-18 19:52:56,749 :: INFO :: __main__ :: Collected 5707 so far in total.
+2022-10-18 19:52:56,750 :: INFO :: __main__ :: getting data for city: 41415, district: None
+2022-10-18 19:52:57,027 :: INFO :: __main__ :: got 43 ads in 0.27785754203796387 sec
+2022-10-18 19:52:57,380 :: INFO :: __main__ :: Collected details for 43 ads in city: 41415
+2022-10-18 19:52:57,380 :: INFO :: __main__ :: Collected 5750 so far in total.
+2022-10-18 19:52:57,380 :: INFO :: __main__ :: getting data for city: 47303, district: None
+2022-10-18 19:52:57,598 :: INFO :: __main__ :: got 31 ads in 0.21828746795654297 sec
+2022-10-18 19:52:57,887 :: INFO :: __main__ :: Collected details for 31 ads in city: 47303
+2022-10-18 19:52:57,887 :: INFO :: __main__ :: Collected 5781 so far in total.
+2022-10-18 19:52:57,887 :: INFO :: __main__ :: getting data for city: 50917, district: None
+2022-10-18 19:52:58,216 :: INFO :: __main__ :: got 50 ads in 0.3293755054473877 sec
+2022-10-18 19:52:58,741 :: INFO :: __main__ :: got 51 ads in 0.24582219123840332 sec
+2022-10-18 19:52:59,189 :: INFO :: __main__ :: got 28 ads in 0.25768375396728516 sec
+2022-10-18 19:52:59,509 :: INFO :: __main__ :: Collected details for 129 ads in city: 50917
+2022-10-18 19:52:59,509 :: INFO :: __main__ :: Collected 5910 so far in total.
+2022-10-18 19:52:59,510 :: INFO :: __main__ :: getting data for city: 52197, district: None
+2022-10-18 19:52:59,728 :: INFO :: __main__ :: got 14 ads in 0.21804094314575195 sec
+2022-10-18 19:52:59,996 :: INFO :: __main__ :: Collected details for 14 ads in city: 52197
+2022-10-18 19:52:59,996 :: INFO :: __main__ :: Collected 5924 so far in total.
+2022-10-18 19:52:59,997 :: INFO :: __main__ :: getting data for city: 52381, district: None
+2022-10-18 19:53:00,251 :: INFO :: __main__ :: got 50 ads in 0.2547280788421631 sec
+2022-10-18 19:53:00,763 :: INFO :: __main__ :: got 50 ads in 0.31114864349365234 sec
+2022-10-18 19:53:01,235 :: INFO :: __main__ :: got 14 ads in 0.26625609397888184 sec
+2022-10-18 19:53:01,498 :: INFO :: __main__ :: Collected details for 114 ads in city: 52381
+2022-10-18 19:53:01,499 :: INFO :: __main__ :: Collected 6038 so far in total.
+2022-10-18 19:53:01,499 :: INFO :: __main__ :: getting data for city: 52515, district: None
+2022-10-18 19:53:01,793 :: INFO :: __main__ :: got 55 ads in 0.2948133945465088 sec
+2022-10-18 19:53:02,263 :: INFO :: __main__ :: got 57 ads in 0.253558874130249 sec
+2022-10-18 19:53:02,634 :: INFO :: __main__ :: got 8 ads in 0.1702268123626709 sec
+2022-10-18 19:53:02,832 :: INFO :: __main__ :: Collected details for 120 ads in city: 52515
+2022-10-18 19:53:02,832 :: INFO :: __main__ :: Collected 6158 so far in total.
+2022-10-18 19:53:02,832 :: INFO :: __main__ :: getting data for city: 52523, district: None
+2022-10-18 19:53:03,045 :: INFO :: __main__ :: got 27 ads in 0.21161770820617676 sec
+2022-10-18 19:53:03,372 :: INFO :: __main__ :: Collected details for 27 ads in city: 52523
+2022-10-18 19:53:03,373 :: INFO :: __main__ :: Collected 6185 so far in total.
+2022-10-18 19:53:03,373 :: INFO :: __main__ :: getting data for city: 52571, district: None
+2022-10-18 19:53:03,551 :: INFO :: __main__ :: got 9 ads in 0.17875003814697266 sec
+2022-10-18 19:53:03,839 :: INFO :: __main__ :: Collected details for 9 ads in city: 52571
+2022-10-18 19:53:03,839 :: INFO :: __main__ :: Collected 6194 so far in total.
+2022-10-18 19:53:03,840 :: INFO :: __main__ :: getting data for city: 53689, district: None
+2022-10-18 19:53:04,117 :: INFO :: __main__ :: got 47 ads in 0.27526235580444336 sec
+2022-10-18 19:53:04,491 :: INFO :: __main__ :: Collected details for 47 ads in city: 53689
+2022-10-18 19:53:04,491 :: INFO :: __main__ :: Collected 6241 so far in total.
+2022-10-18 19:53:04,492 :: INFO :: __main__ :: getting data for city: 53881, district: None
+2022-10-18 19:53:04,770 :: INFO :: __main__ :: got 50 ads in 0.2778773307800293 sec
+2022-10-18 19:53:05,130 :: INFO :: __main__ :: Collected details for 50 ads in city: 53881
+2022-10-18 19:53:05,130 :: INFO :: __main__ :: Collected 6291 so far in total.
+2022-10-18 19:53:05,131 :: INFO :: __main__ :: getting data for city: 54587, district: None
+2022-10-18 19:53:05,401 :: INFO :: __main__ :: got 51 ads in 0.27033209800720215 sec
+2022-10-18 19:53:05,825 :: INFO :: __main__ :: got 51 ads in 0.22669148445129395 sec
+2022-10-18 19:53:06,214 :: INFO :: __main__ :: got 19 ads in 0.18984651565551758 sec
+2022-10-18 19:53:06,505 :: INFO :: __main__ :: Collected details for 121 ads in city: 54587
+2022-10-18 19:53:06,505 :: INFO :: __main__ :: Collected 6412 so far in total.
+2022-10-18 19:53:06,506 :: INFO :: __main__ :: getting data for city: 55111, district: None
+2022-10-18 19:53:06,721 :: INFO :: __main__ :: got 24 ads in 0.21442961692810059 sec
+2022-10-18 19:53:07,028 :: INFO :: __main__ :: Collected details for 24 ads in city: 55111
+2022-10-18 19:53:07,028 :: INFO :: __main__ :: Collected 6436 so far in total.
+2022-10-18 19:53:07,028 :: INFO :: __main__ :: getting data for city: 55283, district: None
+2022-10-18 19:53:07,267 :: INFO :: __main__ :: got 51 ads in 0.23916387557983398 sec
+2022-10-18 19:53:07,675 :: INFO :: __main__ :: got 51 ads in 0.2207624912261963 sec
+2022-10-18 19:53:08,155 :: INFO :: __main__ :: got 51 ads in 0.2649514675140381 sec
+2022-10-18 19:53:08,615 :: INFO :: __main__ :: got 21 ads in 0.2700533866882324 sec
+2022-10-18 19:53:08,871 :: INFO :: __main__ :: Collected details for 174 ads in city: 55283
+2022-10-18 19:53:08,871 :: INFO :: __main__ :: Collected 6610 so far in total.
+2022-10-18 19:53:08,872 :: INFO :: __main__ :: getting data for city: 55749, district: None
+2022-10-18 19:53:09,120 :: INFO :: __main__ :: got 31 ads in 0.24859380722045898 sec
+2022-10-18 19:53:09,463 :: INFO :: __main__ :: Collected details for 31 ads in city: 55749
+2022-10-18 19:53:09,463 :: INFO :: __main__ :: Collected 6641 so far in total.
+2022-10-18 19:53:09,463 :: INFO :: __main__ :: getting data for city: 56287, district: None
+2022-10-18 19:53:09,723 :: INFO :: __main__ :: got 50 ads in 0.25946950912475586 sec
+2022-10-18 19:53:10,145 :: INFO :: __main__ :: got 50 ads in 0.22661852836608887 sec
+2022-10-18 19:53:10,602 :: INFO :: __main__ :: got 3 ads in 0.25481653213500977 sec
+2022-10-18 19:53:10,787 :: INFO :: __main__ :: Collected details for 103 ads in city: 56287
+2022-10-18 19:53:10,787 :: INFO :: __main__ :: Collected 6744 so far in total.
+2022-10-18 19:53:10,787 :: INFO :: __main__ :: getting data for city: 56407, district: None
+2022-10-18 19:53:11,043 :: INFO :: __main__ :: got 49 ads in 0.2548184394836426 sec
+2022-10-18 19:53:11,417 :: INFO :: __main__ :: Collected details for 49 ads in city: 56407
+2022-10-18 19:53:11,418 :: INFO :: __main__ :: Collected 6793 so far in total.
+2022-10-18 19:53:11,418 :: INFO :: __main__ :: getting data for city: 56509, district: None
+2022-10-18 19:53:11,696 :: INFO :: __main__ :: got 54 ads in 0.2782022953033447 sec
+2022-10-18 19:53:12,149 :: INFO :: __main__ :: got 29 ads in 0.22080135345458984 sec
+2022-10-18 19:53:12,452 :: INFO :: __main__ :: Collected details for 83 ads in city: 56509
+2022-10-18 19:53:12,452 :: INFO :: __main__ :: Collected 6876 so far in total.
+2022-10-18 19:53:12,453 :: INFO :: __main__ :: getting data for city: 56677, district: None
+2022-10-18 19:53:12,634 :: INFO :: __main__ :: got 11 ads in 0.1809093952178955 sec
+2022-10-18 19:53:12,880 :: INFO :: __main__ :: Collected details for 11 ads in city: 56677
+2022-10-18 19:53:12,880 :: INFO :: __main__ :: Collected 6887 so far in total.
+2022-10-18 19:53:12,881 :: INFO :: __main__ :: getting data for city: 56849, district: None
+2022-10-18 19:53:13,106 :: INFO :: __main__ :: got 18 ads in 0.22496891021728516 sec
+2022-10-18 19:53:13,364 :: INFO :: __main__ :: Collected details for 18 ads in city: 56849
+2022-10-18 19:53:13,364 :: INFO :: __main__ :: Collected 6905 so far in total.
+2022-10-18 19:53:13,364 :: INFO :: __main__ :: getting data for city: 58121, district: None
+2022-10-18 19:53:13,576 :: INFO :: __main__ :: got 32 ads in 0.21057367324829102 sec
+2022-10-18 19:53:13,894 :: INFO :: __main__ :: Collected details for 32 ads in city: 58121
+2022-10-18 19:53:13,894 :: INFO :: __main__ :: Collected 6937 so far in total.
+2022-10-18 19:53:13,895 :: INFO :: __main__ :: getting data for city: 59535, district: None
+2022-10-18 19:53:14,255 :: INFO :: __main__ :: got 51 ads in 0.35957908630371094 sec
+2022-10-18 19:53:14,680 :: INFO :: __main__ :: got 32 ads in 0.22174763679504395 sec
+2022-10-18 19:53:14,955 :: INFO :: __main__ :: Collected details for 83 ads in city: 59535
+2022-10-18 19:53:14,955 :: INFO :: __main__ :: Collected 7020 so far in total.
+2022-10-18 19:53:14,956 :: INFO :: __main__ :: getting data for city: 59837, district: None
+2022-10-18 19:53:15,206 :: INFO :: __main__ :: got 50 ads in 0.2500925064086914 sec
+2022-10-18 19:53:15,574 :: INFO :: __main__ :: Collected details for 50 ads in city: 59837
+2022-10-18 19:53:15,575 :: INFO :: __main__ :: Collected 7070 so far in total.
+2022-10-18 19:53:15,575 :: INFO :: __main__ :: getting data for city: 60255, district: None
+2022-10-18 19:53:15,825 :: INFO :: __main__ :: got 54 ads in 0.2499234676361084 sec
+2022-10-18 19:53:16,409 :: INFO :: __main__ :: got 56 ads in 0.37404608726501465 sec
+2022-10-18 19:53:16,810 :: INFO :: __main__ :: got 26 ads in 0.22854924201965332 sec
+2022-10-18 19:53:17,079 :: INFO :: __main__ :: Collected details for 136 ads in city: 60255
+2022-10-18 19:53:17,080 :: INFO :: __main__ :: Collected 7206 so far in total.
+2022-10-18 19:53:17,080 :: INFO :: __main__ :: getting data for city: 63433, district: None
+2022-10-18 19:53:17,374 :: INFO :: __main__ :: got 50 ads in 0.2933943271636963 sec
+2022-10-18 19:53:17,718 :: INFO :: __main__ :: got 5 ads in 0.15525341033935547 sec
+2022-10-18 19:53:17,990 :: INFO :: __main__ :: Collected details for 55 ads in city: 63433
+2022-10-18 19:53:17,990 :: INFO :: __main__ :: Collected 7261 so far in total.
+2022-10-18 19:53:17,990 :: INFO :: __main__ :: getting data for city: 64413, district: None
+2022-10-18 19:53:18,172 :: INFO :: __main__ :: got 11 ads in 0.18232059478759766 sec
+2022-10-18 19:53:18,361 :: INFO :: __main__ :: Collected details for 11 ads in city: 64413
+2022-10-18 19:53:18,361 :: INFO :: __main__ :: Collected 7272 so far in total.
+2022-10-18 19:53:18,361 :: INFO :: __main__ :: getting data for city: 64759, district: None
+2022-10-18 19:53:18,547 :: INFO :: __main__ :: got 19 ads in 0.18547892570495605 sec
+2022-10-18 19:53:18,799 :: INFO :: __main__ :: Collected details for 19 ads in city: 64759
+2022-10-18 19:53:18,800 :: INFO :: __main__ :: Collected 7291 so far in total.
+2022-10-18 19:53:18,800 :: INFO :: __main__ :: getting data for city: 65569, district: None
+2022-10-18 19:53:19,018 :: INFO :: __main__ :: got 30 ads in 0.21867728233337402 sec
+2022-10-18 19:53:19,328 :: INFO :: __main__ :: Collected details for 30 ads in city: 65569
+2022-10-18 19:53:19,329 :: INFO :: __main__ :: Collected 7321 so far in total.
+2022-10-18 19:53:19,329 :: INFO :: __main__ :: getting data for city: 65789, district: None
+2022-10-18 19:53:19,505 :: INFO :: __main__ :: got 14 ads in 0.17644023895263672 sec
+2022-10-18 19:53:19,755 :: INFO :: __main__ :: Collected details for 14 ads in city: 65789
+2022-10-18 19:53:19,755 :: INFO :: __main__ :: Collected 7335 so far in total.
+2022-10-18 19:53:19,755 :: INFO :: __main__ :: getting data for city: 66605, district: None
+2022-10-18 19:53:19,957 :: INFO :: __main__ :: got 22 ads in 0.20137500762939453 sec
+2022-10-18 19:53:20,255 :: INFO :: __main__ :: Collected details for 22 ads in city: 66605
+2022-10-18 19:53:20,255 :: INFO :: __main__ :: Collected 7357 so far in total.
+2022-10-18 19:53:20,255 :: INFO :: __main__ :: getting data for city: 66927, district: None
+2022-10-18 19:53:20,524 :: INFO :: __main__ :: got 52 ads in 0.2686464786529541 sec
+2022-10-18 19:53:20,929 :: INFO :: __main__ :: got 4 ads in 0.17905521392822266 sec
+2022-10-18 19:53:21,163 :: INFO :: __main__ :: Collected details for 56 ads in city: 66927
+2022-10-18 19:53:21,164 :: INFO :: __main__ :: Collected 7413 so far in total.
+2022-10-18 19:53:21,164 :: INFO :: __main__ :: getting data for city: 67313, district: None
+2022-10-18 19:53:21,338 :: INFO :: __main__ :: got 12 ads in 0.17461729049682617 sec
+2022-10-18 19:53:21,580 :: INFO :: __main__ :: Collected details for 12 ads in city: 67313
+2022-10-18 19:53:21,580 :: INFO :: __main__ :: Collected 7425 so far in total.
+2022-10-18 19:53:21,580 :: INFO :: __main__ :: getting data for city: 67521, district: None
+2022-10-18 19:53:21,861 :: INFO :: __main__ :: got 44 ads in 0.28122544288635254 sec
+2022-10-18 19:53:22,235 :: INFO :: __main__ :: Collected details for 44 ads in city: 67521
+2022-10-18 19:53:22,235 :: INFO :: __main__ :: Collected 7469 so far in total.
+2022-10-18 19:53:22,235 :: INFO :: __main__ :: getting data for city: 69609, district: None
+2022-10-18 19:53:22,483 :: INFO :: __main__ :: got 11 ads in 0.24597382545471191 sec
+2022-10-18 19:53:22,709 :: INFO :: __main__ :: Collected details for 11 ads in city: 69609
+2022-10-18 19:53:22,709 :: INFO :: __main__ :: Collected 7480 so far in total.
+2022-10-18 19:53:22,709 :: INFO :: __main__ :: getting data for city: 70247, district: None
+2022-10-18 19:53:22,895 :: INFO :: __main__ :: got 11 ads in 0.18682217597961426 sec
+2022-10-18 19:53:23,121 :: INFO :: __main__ :: Collected details for 11 ads in city: 70247
+2022-10-18 19:53:23,121 :: INFO :: __main__ :: Collected 7491 so far in total.
+2022-10-18 19:53:23,121 :: INFO :: __main__ :: getting data for city: 70249, district: None
+2022-10-18 19:53:23,393 :: INFO :: __main__ :: got 51 ads in 0.2712523937225342 sec
+2022-10-18 19:53:23,825 :: INFO :: __main__ :: got 14 ads in 0.22055673599243164 sec
+2022-10-18 19:53:24,039 :: INFO :: __main__ :: Collected details for 65 ads in city: 70249
+2022-10-18 19:53:24,039 :: INFO :: __main__ :: Collected 7556 so far in total.
+2022-10-18 19:53:24,039 :: INFO :: __main__ :: getting data for city: 71757, district: None
+2022-10-18 19:53:24,296 :: INFO :: __main__ :: got 51 ads in 0.2547745704650879 sec
+2022-10-18 19:53:24,729 :: INFO :: __main__ :: got 30 ads in 0.2298734188079834 sec
+2022-10-18 19:53:24,998 :: INFO :: __main__ :: Collected details for 81 ads in city: 71757
+2022-10-18 19:53:24,998 :: INFO :: __main__ :: Collected 7637 so far in total.
+2022-10-18 19:53:24,998 :: INFO :: __main__ :: getting data for city: 71851, district: None
+2022-10-18 19:53:25,263 :: INFO :: __main__ :: got 53 ads in 0.26453661918640137 sec
+2022-10-18 19:53:25,611 :: INFO :: __main__ :: Collected details for 53 ads in city: 71851
+2022-10-18 19:53:25,612 :: INFO :: __main__ :: Collected 7690 so far in total.
+2022-10-18 19:53:25,612 :: INFO :: __main__ :: getting data for city: 72583, district: None
+2022-10-18 19:53:25,875 :: INFO :: __main__ :: got 21 ads in 0.2638413906097412 sec
+2022-10-18 19:53:26,161 :: INFO :: __main__ :: Collected details for 21 ads in city: 72583
+2022-10-18 19:53:26,162 :: INFO :: __main__ :: Collected 7711 so far in total.
+2022-10-18 19:53:26,162 :: INFO :: __main__ :: getting data for city: 74511, district: None
+2022-10-18 19:53:26,378 :: INFO :: __main__ :: got 41 ads in 0.21613597869873047 sec
+2022-10-18 19:53:26,711 :: INFO :: __main__ :: Collected details for 41 ads in city: 74511
+2022-10-18 19:53:26,711 :: INFO :: __main__ :: Collected 7752 so far in total.
+2022-10-18 19:53:26,712 :: INFO :: __main__ :: getting data for city: 74557, district: None
+2022-10-18 19:53:26,967 :: INFO :: __main__ :: got 56 ads in 0.2551259994506836 sec
+2022-10-18 19:53:27,436 :: INFO :: __main__ :: got 57 ads in 0.25557565689086914 sec
+2022-10-18 19:53:27,840 :: INFO :: __main__ :: Collected details for 113 ads in city: 74557
+2022-10-18 19:53:27,840 :: INFO :: __main__ :: Collected 7865 so far in total.
+2022-10-18 19:53:27,840 :: INFO :: __main__ :: getting data for city: 74837, district: None
+2022-10-18 19:53:28,142 :: INFO :: __main__ :: got 11 ads in 0.3007955551147461 sec
+2022-10-18 19:53:28,361 :: INFO :: __main__ :: Collected details for 11 ads in city: 74837
+2022-10-18 19:53:28,361 :: INFO :: __main__ :: Collected 7876 so far in total.
+2022-10-18 19:53:28,361 :: INFO :: __main__ :: getting data for city: 75075, district: None
+2022-10-18 19:53:28,566 :: INFO :: __main__ :: got 34 ads in 0.2039954662322998 sec
+2022-10-18 19:53:28,863 :: INFO :: __main__ :: Collected details for 34 ads in city: 75075
+2022-10-18 19:53:28,863 :: INFO :: __main__ :: Collected 7910 so far in total.
+2022-10-18 19:53:28,863 :: INFO :: __main__ :: getting data for city: 76295, district: None
+2022-10-18 19:53:29,098 :: INFO :: __main__ :: got 37 ads in 0.23335838317871094 sec
+2022-10-18 19:53:29,521 :: INFO :: __main__ :: Collected details for 37 ads in city: 76295
+2022-10-18 19:53:29,521 :: INFO :: __main__ :: Collected 7947 so far in total.
+2022-10-18 19:53:29,521 :: INFO :: __main__ :: getting data for city: 77345, district: None
+2022-10-18 19:53:29,791 :: INFO :: __main__ :: got 45 ads in 0.26987147331237793 sec
+2022-10-18 19:53:30,153 :: INFO :: __main__ :: Collected details for 45 ads in city: 77345
+2022-10-18 19:53:30,153 :: INFO :: __main__ :: Collected 7992 so far in total.
+2022-10-18 19:53:30,153 :: INFO :: __main__ :: getting data for city: 78153, district: None
+2022-10-18 19:53:30,392 :: INFO :: __main__ :: got 41 ads in 0.23855090141296387 sec
+2022-10-18 19:53:30,699 :: INFO :: __main__ :: Collected details for 41 ads in city: 78153
+2022-10-18 19:53:30,700 :: INFO :: __main__ :: Collected 8033 so far in total.
+2022-10-18 19:53:30,700 :: INFO :: __main__ :: getting data for city: 86283, district: None
+2022-10-18 19:53:30,937 :: INFO :: __main__ :: got 46 ads in 0.23667073249816895 sec
+2022-10-18 19:53:31,306 :: INFO :: __main__ :: Collected details for 46 ads in city: 86283
+2022-10-18 19:53:31,306 :: INFO :: __main__ :: Collected 8079 so far in total.
+2022-10-18 19:53:31,307 :: INFO :: __main__ :: getting data for city: 89409, district: None
+2022-10-18 19:53:31,527 :: INFO :: __main__ :: got 33 ads in 0.22016692161560059 sec
+2022-10-18 19:53:31,831 :: INFO :: __main__ :: Collected details for 33 ads in city: 89409
+2022-10-18 19:53:31,831 :: INFO :: __main__ :: Collected 8112 so far in total.
+2022-10-18 19:53:31,832 :: INFO :: __main__ :: getting data for city: 89633, district: None
+2022-10-18 19:53:32,065 :: INFO :: __main__ :: got 13 ads in 0.23305225372314453 sec
+2022-10-18 19:53:32,352 :: INFO :: __main__ :: Collected details for 13 ads in city: 89633
+2022-10-18 19:53:32,352 :: INFO :: __main__ :: Collected 8125 so far in total.
+2022-10-18 19:53:32,352 :: INFO :: __main__ :: getting data for city: 91271, district: None
+2022-10-18 19:53:32,575 :: INFO :: __main__ :: got 19 ads in 0.22111129760742188 sec
+2022-10-18 19:53:32,926 :: INFO :: __main__ :: Collected details for 19 ads in city: 91271
+2022-10-18 19:53:32,927 :: INFO :: __main__ :: Collected 8144 so far in total.
+2022-10-18 19:53:32,927 :: INFO :: __main__ :: getting data for city: 91275, district: None
+2022-10-18 19:53:33,104 :: INFO :: __main__ :: got 7 ads in 0.1770782470703125 sec
+2022-10-18 19:53:33,315 :: INFO :: __main__ :: Collected details for 7 ads in city: 91275
+2022-10-18 19:53:33,315 :: INFO :: __main__ :: Collected 8151 so far in total.
+2022-10-18 19:53:33,315 :: INFO :: __main__ :: getting data for city: 92951, district: None
+2022-10-18 19:53:33,660 :: INFO :: __main__ :: got 33 ads in 0.34462451934814453 sec
+2022-10-18 19:53:33,973 :: INFO :: __main__ :: Collected details for 33 ads in city: 92951
+2022-10-18 19:53:33,974 :: INFO :: __main__ :: Collected 8184 so far in total.
+2022-10-18 19:53:33,974 :: INFO :: __main__ :: getting data for city: 93641, district: None
+2022-10-18 19:53:34,228 :: INFO :: __main__ :: got 27 ads in 0.25385570526123047 sec
+2022-10-18 19:53:34,519 :: INFO :: __main__ :: Collected details for 27 ads in city: 93641
+2022-10-18 19:53:34,519 :: INFO :: __main__ :: Collected 8211 so far in total.
+2022-10-18 19:53:34,520 :: INFO :: __main__ :: getting data for city: 93847, district: None
+2022-10-18 19:53:34,744 :: INFO :: __main__ :: got 23 ads in 0.2234029769897461 sec
+2022-10-18 19:53:34,996 :: INFO :: __main__ :: Collected details for 23 ads in city: 93847
+2022-10-18 19:53:34,996 :: INFO :: __main__ :: Collected 8234 so far in total.
+2022-10-18 19:53:34,997 :: INFO :: __main__ :: getting data for city: 94873, district: None
+2022-10-18 19:53:35,291 :: INFO :: __main__ :: got 24 ads in 0.29395198822021484 sec
+2022-10-18 19:53:35,592 :: INFO :: __main__ :: Collected details for 24 ads in city: 94873
+2022-10-18 19:53:35,593 :: INFO :: __main__ :: Collected 8258 so far in total.
+2022-10-18 19:53:35,593 :: INFO :: __main__ :: getting data for city: 95447, district: None
+2022-10-18 19:53:35,835 :: INFO :: __main__ :: got 51 ads in 0.24174880981445312 sec
+2022-10-18 19:53:36,338 :: INFO :: __main__ :: got 52 ads in 0.27777552604675293 sec
+2022-10-18 19:53:36,697 :: INFO :: __main__ :: got 12 ads in 0.17481684684753418 sec
+2022-10-18 19:53:36,931 :: INFO :: __main__ :: Collected details for 115 ads in city: 95447
+2022-10-18 19:53:36,931 :: INFO :: __main__ :: Collected 8373 so far in total.
+2022-10-18 19:53:36,931 :: INFO :: __main__ :: getting data for city: 96413, district: None
+2022-10-18 19:53:37,153 :: INFO :: __main__ :: got 29 ads in 0.22157597541809082 sec
+2022-10-18 19:53:37,468 :: INFO :: __main__ :: Collected details for 29 ads in city: 96413
+2022-10-18 19:53:37,469 :: INFO :: __main__ :: Collected 8402 so far in total.
+2022-10-18 19:53:37,469 :: INFO :: __main__ :: getting data for city: 96667, district: None
+2022-10-18 19:53:37,657 :: INFO :: __main__ :: got 9 ads in 0.18787670135498047 sec
+2022-10-18 19:53:37,871 :: INFO :: __main__ :: Collected details for 9 ads in city: 96667
+2022-10-18 19:53:37,871 :: INFO :: __main__ :: Collected 8411 so far in total.
+2022-10-18 19:53:37,872 :: INFO :: __main__ :: getting data for city: 99777, district: None
+2022-10-18 19:53:38,179 :: INFO :: __main__ :: got 51 ads in 0.3071284294128418 sec
+2022-10-18 19:53:38,697 :: INFO :: __main__ :: got 35 ads in 0.32001590728759766 sec
+2022-10-18 19:53:39,039 :: INFO :: __main__ :: Collected details for 86 ads in city: 99777
+2022-10-18 19:53:39,039 :: INFO :: __main__ :: Collected 8497 so far in total.
+2022-10-18 19:53:39,039 :: INFO :: __main__ :: getting data for city: 102207, district: None
+2022-10-18 19:53:39,339 :: INFO :: __main__ :: got 47 ads in 0.2987852096557617 sec
+2022-10-18 19:53:39,784 :: INFO :: __main__ :: Collected details for 47 ads in city: 102207
+2022-10-18 19:53:39,785 :: INFO :: __main__ :: Collected 8544 so far in total.
+2022-10-18 19:53:39,785 :: INFO :: __main__ :: getting data for city: 105233, district: None
+2022-10-18 19:53:40,074 :: INFO :: __main__ :: got 10 ads in 0.28986573219299316 sec
+2022-10-18 19:53:40,314 :: INFO :: __main__ :: Collected details for 10 ads in city: 105233
+2022-10-18 19:53:40,315 :: INFO :: __main__ :: Collected 8554 so far in total.
+2022-10-18 19:53:40,315 :: INFO :: __main__ :: getting data for city: 105703, district: None
+2022-10-18 19:53:40,744 :: INFO :: __main__ :: got 55 ads in 0.4290487766265869 sec
+2022-10-18 19:53:41,324 :: INFO :: __main__ :: got 56 ads in 0.3870241641998291 sec
+2022-10-18 19:53:41,838 :: INFO :: __main__ :: got 41 ads in 0.30500030517578125 sec
+2022-10-18 19:53:42,147 :: INFO :: __main__ :: Collected details for 152 ads in city: 105703
+2022-10-18 19:53:42,147 :: INFO :: __main__ :: Collected 8706 so far in total.
+2022-10-18 19:53:42,147 :: INFO :: __main__ :: getting data for city: 107141, district: None
+2022-10-18 19:53:42,348 :: INFO :: __main__ :: got 14 ads in 0.19995975494384766 sec
+2022-10-18 19:53:42,601 :: INFO :: __main__ :: Collected details for 14 ads in city: 107141
+2022-10-18 19:53:42,601 :: INFO :: __main__ :: Collected 8720 so far in total.
+2022-10-18 19:53:42,601 :: INFO :: __main__ :: getting data for city: 107963, district: None
+2022-10-18 19:53:42,813 :: INFO :: __main__ :: got 50 ads in 0.2118699550628662 sec
+2022-10-18 19:53:43,238 :: INFO :: __main__ :: got 17 ads in 0.19090509414672852 sec
+2022-10-18 19:53:43,500 :: INFO :: __main__ :: Collected details for 67 ads in city: 107963
+2022-10-18 19:53:43,501 :: INFO :: __main__ :: Collected 8787 so far in total.
+2022-10-18 19:53:43,501 :: INFO :: __main__ :: getting data for city: 110223, district: None
+2022-10-18 19:53:43,727 :: INFO :: __main__ :: got 35 ads in 0.22603416442871094 sec
+2022-10-18 19:53:44,084 :: INFO :: __main__ :: Collected details for 35 ads in city: 110223
+2022-10-18 19:53:44,085 :: INFO :: __main__ :: Collected 8822 so far in total.
+2022-10-18 19:53:44,085 :: INFO :: __main__ :: getting data for city: 112933, district: None
+2022-10-18 19:53:44,306 :: INFO :: __main__ :: got 24 ads in 0.22135710716247559 sec
+2022-10-18 19:53:44,592 :: INFO :: __main__ :: Collected details for 24 ads in city: 112933
+2022-10-18 19:53:44,593 :: INFO :: __main__ :: Collected 8846 so far in total.
+2022-10-18 19:53:44,593 :: INFO :: __main__ :: getting data for city: 124233, district: None
+2022-10-18 19:53:44,785 :: INFO :: __main__ :: got 14 ads in 0.19246697425842285 sec
+2022-10-18 19:53:45,036 :: INFO :: __main__ :: Collected details for 14 ads in city: 124233
+2022-10-18 19:53:45,036 :: INFO :: __main__ :: Collected 8860 so far in total.
+2022-10-18 19:53:45,037 :: INFO :: __main__ :: getting data for city: 128097, district: None
+2022-10-18 19:53:45,336 :: INFO :: __main__ :: got 54 ads in 0.29885196685791016 sec
+2022-10-18 19:53:45,816 :: INFO :: __main__ :: got 54 ads in 0.2593958377838135 sec
+2022-10-18 19:53:46,215 :: INFO :: __main__ :: got 21 ads in 0.1863090991973877 sec
+2022-10-18 19:53:46,468 :: INFO :: __main__ :: Collected details for 129 ads in city: 128097
+2022-10-18 19:53:46,468 :: INFO :: __main__ :: Collected 8989 so far in total.
+2022-10-18 19:53:46,468 :: INFO :: __main__ :: getting data for city: 129619, district: None
+2022-10-18 19:53:46,715 :: INFO :: __main__ :: got 47 ads in 0.24715566635131836 sec
+2022-10-18 19:53:47,085 :: INFO :: __main__ :: Collected details for 47 ads in city: 129619
+2022-10-18 19:53:47,085 :: INFO :: __main__ :: Collected 9036 so far in total.
+2022-10-18 19:53:47,086 :: INFO :: __main__ :: getting data for city: 129789, district: None
+2022-10-18 19:53:47,295 :: INFO :: __main__ :: got 23 ads in 0.20844149589538574 sec
+2022-10-18 19:53:47,556 :: INFO :: __main__ :: Collected details for 23 ads in city: 129789
+2022-10-18 19:53:47,556 :: INFO :: __main__ :: Collected 9059 so far in total.
+2022-10-18 19:53:47,557 :: INFO :: __main__ :: getting data for city: 135991, district: None
+2022-10-18 19:53:47,745 :: INFO :: __main__ :: got 18 ads in 0.18745160102844238 sec
+2022-10-18 19:53:47,995 :: INFO :: __main__ :: Collected details for 18 ads in city: 135991
+2022-10-18 19:53:47,995 :: INFO :: __main__ :: Collected 9077 so far in total.
+2022-10-18 19:53:47,996 :: INFO :: __main__ :: getting data for city: 136619, district: None
+2022-10-18 19:53:48,183 :: INFO :: __main__ :: got 9 ads in 0.1872868537902832 sec
+2022-10-18 19:53:48,434 :: INFO :: __main__ :: Collected details for 9 ads in city: 136619
+2022-10-18 19:53:48,434 :: INFO :: __main__ :: Collected 9086 so far in total.
+2022-10-18 19:53:48,434 :: INFO :: __main__ :: getting data for city: 141033, district: None
+2022-10-18 19:53:48,667 :: INFO :: __main__ :: got 39 ads in 0.23299884796142578 sec
+2022-10-18 19:53:49,029 :: INFO :: __main__ :: Collected details for 39 ads in city: 141033
+2022-10-18 19:53:49,029 :: INFO :: __main__ :: Collected 9125 so far in total.
