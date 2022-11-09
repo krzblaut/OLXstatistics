@@ -1,8 +1,4 @@
-from db_con import DbConnect
 import logging
-
-# con = DbConnect('{ODBC Driver 17 for SQL Server}', 'DESKTOP-07IDHB4\SQLEXPRESS', 'OLX')
-# con.get_connection()
 
 logger = logging.getLogger(__name__)
 logging.FileHandler('logfile.log')
