@@ -1,7 +1,7 @@
 from db_con import DbConnect
 from scrap import ScrapData
+from app_stats import AppStats
 from datetime import date
-import time
 import logging
 from progress.bar import Bar
 import sys
@@ -49,63 +49,58 @@ queryDetails = """
             VALUES
                 (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);"""
 
+def main():
+    bar = Bar('Running...', max=len(ids), suffix='%(percent)d%%)')
+    collected_total = 0
+    for index in range(len(ids)):
+        bar.next()
+        logger.info(f'getting data for city: {ids[index][0]}, district: {ids[index][1]}')
+        # you need different querystring for city with districts and without that's why it's divided into two loops.
+        if ids[index][1] is not None:
+            # max limit of ads you can access with one request is 50, to access more ads you have to add offset.
+            offset = 0
+            while True:
+                querystring = {"offset": f"{offset}", "limit": "50", "category_id": "14", "city_id": f"{ids[index][0]}",
+                               "district_id": f"{ids[index][1]}", "filter_refiners": "", "facets": "[{\"field\":\"city\","
+                               "\"fetchLabel\":true,\"fetchUrl\":true,\"limit\":10}]", "sl": "181cea3c35ex24cfd864"}
+                ads_list, size = scrap.get_response(querystring)  # list of dicts with ad details and size of the list
+                if size == 0:
+                    break
+                for ad in ads_list:
+                    values = scrap.collect_details(ad)
+                    values = [int(x) if type(x) is bool else x for x in values]
+                    priceProm = [values[i] for i in [0, 1, 22, 13, 14, 15]] + [date] + [str(values[0])+date]
+                    details = values[0:13] + values[16:22] + [date]
+                    con.insert_data(queryPrices, priceProm)
+                    con.insert_data(queryDetails, details)
+                offset += size
+            logger.info(f'Collected details for {offset} ads in city: {ids[index][0]}, district: {ids[index][1]}')
+            collected_total += offset
+            logger.info(f'Collected {collected_total} so far in total.')
+        else:   # sending requests for cities without districts
+            offset = 0
+            while True:
+                querystring = {"offset": f"{offset}", "limit": "50", "category_id": "14", "city_id": f"{ids[index][0]}",
+                               "filter_refiners": "", "facets": "[{\"field\":\"city\",\"fetchLabel\":true,\"fetchUrl"
+                               "\":true,\"limit\":10}]", "sl": "181cea3c35ex24cfd864"}
+                ads_list, size = scrap.get_response(querystring)
+                if size == 0:
+                    break
+                for ad in ads_list:
+                    values = scrap.collect_details(ad)
+                    values = [int(x) if type(x) is bool else x for x in values]
+                    priceProm = [values[i] for i in [0, 1, 22, 13, 14, 15]] + [date] + [str(values[0])+date]
+                    details = values[0:13] + values[16:22] + [date]
+                    con.insert_data(queryPrices, priceProm)
+                    con.insert_data(queryDetails, details)
+                offset += size
+            logger.info(f'Collected details for {offset} ads in city: {ids[index][0]}')
+            collected_total += offset
+            logger.info(f'Collected {collected_total} so far in total.')
+    stats = AppStats(con)
+    stats.calculate_data(date)
+    bar.finish()
+  
+if __name__ == "__main__":
+    main()
 
-bar = Bar('Running...', max=len(ids), suffix='%(percent)d%%)')
-collected_total = 0
-
-for index in range(len(ids)):
-    bar.next()
-    logger.info(f'getting data for city: {ids[index][0]}, district: {ids[index][1]}')
-    # you need different querystring for city with districts and without that's why it's divided into two loops.
-    if ids[index][1] is not None:
-        # max limit of ads you can access with one request is 50, to access more ads you have to add offset.
-        offset = 0
-        while True:
-            querystring = {"offset": f"{offset}", "limit": "50", "category_id": "14", "city_id": f"{ids[index][0]}",
-                           "district_id": f"{ids[index][1]}", "filter_refiners": "", "facets": "[{\"field\":\"city\","
-                           "\"fetchLabel\":true,\"fetchUrl\":true,\"limit\":10}]", "sl": "181cea3c35ex24cfd864"}
-            start = time.time()
-            ads_list = scrap.get_response(querystring)  # list of dicts containing ad details
-            size = len(ads_list)
-            end = time.time() # to powyrzucać do modułu
-            if size == 0:
-                break
-            logger.info(f'got {size} ads in {end - start} sec')
-            for ad in ads_list:
-                values = scrap.collect_details(ad)
-                values = [int(x) if type(x) is bool else x for x in values]
-                priceProm = [values[i] for i in [0, 1, 22, 13, 14, 15]] + [date] + [str(values[0])+date]
-                details = values[0:13] + values[16:22] + [date]
-                con.insert_data(queryPrices, priceProm)
-                con.insert_data(queryDetails, details)
-            offset += size
-        logger.info(f'Collected details for {offset} ads in city: {ids[index][0]}, district: {ids[index][1]}')
-        collected_total += offset
-        logger.info(f'Collected {collected_total} so far in total.')
-    else:   # sending requests for cities without districts
-        offset = 0
-        while True:
-            priceAll = []
-            detailsAll = []
-            querystring = {"offset": f"{offset}", "limit": "50", "category_id": "14", "city_id": f"{ids[index][0]}",
-                           "filter_refiners": "", "facets": "[{\"field\":\"city\",\"fetchLabel\":true,\"fetchUrl"
-                           "\":true,\"limit\":10}]", "sl": "181cea3c35ex24cfd864"}
-            start = time.time()
-            ads_list = scrap.get_response(querystring)
-            size = len(ads_list)
-            end = time.time()
-            if size == 0:
-                break
-            logger.info(f'got {size} ads in {end - start} sec')
-            for ad in ads_list:
-                values = scrap.collect_details(ad)
-                values = [int(x) if type(x) is bool else x for x in values]
-                priceProm = [values[i] for i in [0, 1, 22, 13, 14, 15]] + [date] + [str(values[0])+date]
-                details = values[0:13] + values[16:22] + [date]
-                con.insert_data(queryPrices, priceProm)
-                con.insert_data(queryDetails, details)
-            offset += size
-        logger.info(f'Collected details for {offset} ads in city: {ids[index][0]}')
-        collected_total += offset
-        logger.info(f'Collected {collected_total} so far in total.')
-bar.finish()
