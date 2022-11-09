@@ -86,15 +86,22 @@ class ScrapData:
             ...
             ]
         """
-        # time.sleep(random.uniform(0.5, 1.0))
-        response = self.session.request("GET", self.url, data=self.payload, headers=self.headers, params=querystr)
-        # time.sleep(0.05)
-        res = response.json()
+        start = time.time()
         try:
-            lst = res['data']
+            response = self.session.request("GET", self.url, data=self.payload, headers=self.headers, params=querystr)
+            res = response.json()
+        except JSONDecodeError:
+            if 'Response' in str(response):
+                logger.info('Server error, trying again in 30s')
+                time.sleep(30)
+                self.get_response(querystr)
+        try:
+            list_of_ads = res['data']
         except KeyError:
-            lst = []
-        return lst
+            list_of_ads = []
+        end = time.time()
+        if len(list_of_ads) > 0: logger.info(f'got {len(list_of_ads)} ads in {end - start} sec')
+        return list_of_ads, len(list_of_ads)
 
     @staticmethod
     def collect_details(det_dict):
